@@ -1,4 +1,4 @@
-(function(){
+$(function(){
   var $win=$(window);
 
   $win.on('load scroll',function(){
